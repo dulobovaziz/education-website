@@ -470,6 +470,9 @@ a img.aligncenter {
     HEADER
 -------------------------------------------------------------------*/
 
+.navbar-brand img {
+    width: 200px;
+}
 
 .top-navbar .bg-light {
     background: #4c5a7d !important;
